@@ -12,7 +12,6 @@ function App() {
   useEffect(() => {
     document.title = 'GitHub issues';
   }, []);
-
   // Helper function that performs an API request and sets the `issues` array to a list of issues from GitHub
   const getRepoIssues = (repo) => {
     let issuesURL = `https://api.github.com/repos/${repo}/issues?direction=asc`;
