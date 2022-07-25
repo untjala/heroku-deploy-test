@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/heroku-deploy-test/static/js/main.8510de2c.js",
+    "index.html": "/heroku-deploy-test/index.html",
+    "main.8510de2c.js.map": "/heroku-deploy-test/static/js/main.8510de2c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8510de2c.js"
+  ]
+}
